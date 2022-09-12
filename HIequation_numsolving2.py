@@ -10,7 +10,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import math
 from scipy.signal import find_peaks
 from scipy.optimize import curve_fit
 
